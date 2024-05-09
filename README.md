@@ -26,4 +26,16 @@ Working
 ![screenshot](https://github.com/Abhishekkumarsharma1001/Resume-Generator/blob/main/Ss1.png)
 
 
+**Contributing:**
+- Contributions are welcome! Feel free to fork the repository, make improvements, and submit pull requests.
+
+
+**Credit:**
+- This Text Editor was developed by 😎[Abhishek Kumar Sharma](https://www.linkedin.com/in/abhishek-kumar-sharma-3b2bb0213).
+
+
+**Contact:**
+- For any inquiries or feedback, please contact [abhikumarsharma146@gmail.com].
+
+
 
