@@ -17,7 +17,8 @@ Working
 - Clean Code 
 - Profile photo , email , phone no , contact no , github link , linkedin link , education , experience, skill , objective section included in the template. 
 
-# [DEMO](https://rishikavishnoi.github.io/Resume-Builder/)   👍❤️
+# DEMO   👍❤️
+[Preview](https://663d293328357441d37554ed--bespoke-sunburst-a2d7c4.netlify.app/) </br>
 ** Note :- profile photo field is required **
 
 
