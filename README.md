@@ -23,7 +23,7 @@ Working
 
 
 
-![screenshot](ss.png)
-![screenshot](ss2.png)
+![screenshot](https://github.com/Abhishekkumarsharma1001/Resume-Generator/blob/main/Ss1.png)
+
 
 
